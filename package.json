@@ -1,0 +1,24 @@
+{
+  "name": "darcky-learning-backend",
+  "version": "1.0.0",
+  "description": "Learning backend development using youtube video - Hitesh Choudary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "'Abhiram chandra'",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "expo-image-picker": "^15.0.7",
+    "expo-speech": "^12.0.2",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "backend",
+    "javascript",
+    "learning"
+  ]
+}
